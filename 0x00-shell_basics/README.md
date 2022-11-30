@@ -41,4 +41,5 @@ cd -al . .. /boot _ls in 3 different directory at once_
 Task 12. File type
 file [filename] _print file type_
 
-
+Task 13. We are symbols, and inhabit symbols
+ln -s target-or-destination link-name 
