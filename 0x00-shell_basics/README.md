@@ -50,5 +50,8 @@ cp -nu .html  _copy only html files and only writes files that didnt exist_
 Task 15. Let's move
 mv [[:upper:]]  _move files with names starting with an upper case_
 
+Task 16 Cleam Emacs
+rm all ~   _delete all Emacs generated temp file with ~ at the end_
+
 
   
