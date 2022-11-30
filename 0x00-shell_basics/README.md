@@ -17,5 +17,6 @@ ls -l _display current directory contents in long format_
 Task 4. Hidden files
 ls -al _display current directory contents including hidden files_
 
-_
+Task 5. I love numbers
+ls -nl _display current directory contents numerically__
 
