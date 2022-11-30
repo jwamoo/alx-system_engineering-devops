@@ -32,4 +32,5 @@ rm _delete betty_
 Task 9. Bye bye My first directory
 rmdir _delete directory from tmp directory_
 
-
+Task 10. Back to the future
+cd - _changes working directory to the previous one_
