@@ -53,5 +53,6 @@ mv [[:upper:]]  _move files with names starting with an upper case_
 Task 16 Cleam Emacs
 rm all ~   _delete all Emacs generated temp file with ~ at the end_
 
-
+Task 17 Create Directories welcome, welcome/to, and welcome/to/school
+mkdir -p welcome/to/school _command_
   
