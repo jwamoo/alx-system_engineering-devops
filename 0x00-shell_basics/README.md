@@ -18,5 +18,8 @@ Task 4. Hidden files
 ls -al _display current directory contents including hidden files_
 
 Task 5. I love numbers
-ls -aln _display current directory contents numerically__
+ls -aln _display current directory contents numerically_
+
+Task 6. Welcome
+mkdir /tmp/my\_first\_directry _create directory in /tmp/ directory_
 
