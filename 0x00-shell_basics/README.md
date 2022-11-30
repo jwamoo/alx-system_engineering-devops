@@ -36,4 +36,4 @@ Task 10. Back to the future
 cd - _changes working directory to the previous one_
 
 Task 11. Lists
-cd . .. /boot _ls in 3 different directory at once_
+cd -al . .. /boot _ls in 3 different directory at once_
