@@ -21,5 +21,10 @@ Task 5. I love numbers
 ls -aln _display current directory contents numerically_
 
 Task 6. Welcome
-mkdir /tmp/my\_first\_directry _create directory in /tmp/ directory_
+mkdir /tmp/my-first-directory _create directory in /tmp/ director_
+
+Task 7. BBett is my first directory
+mv _move betty from tmp to tmp/my-first-director_
+
+
 
