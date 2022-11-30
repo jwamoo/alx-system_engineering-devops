@@ -42,4 +42,7 @@ Task 12. File type
 file [filename] _print file type_
 
 Task 13. We are symbols, and inhabit symbols
-ln -s target-or-destination link-name 
+ln -s _target-or-destination link-name_
+
+Task 14. Copy HTML files
+cp -nu *.html_ _copy only html files and only writes files that didnt exist_  
