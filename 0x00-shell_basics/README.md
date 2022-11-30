@@ -11,3 +11,7 @@ ls _lists the content of a current directory_
 Task 2. There is no place like home
 cd ~ _changes the directory to the user's home directory_
 
+Task 3. The long format
+ls -l _display current directory contents in long format_
+_
+
