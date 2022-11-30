@@ -58,4 +58,11 @@ mkdir -p welcome/to/school _command_
 
 Task 18. Comma separated ls
 ls -map
+
+Task 19. File type: School
+
+**0 string SCHOOL School data**
+**!:mime School**
+
+_Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0_
   
