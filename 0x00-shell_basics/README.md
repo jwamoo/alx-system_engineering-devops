@@ -45,4 +45,10 @@ Task 13. We are symbols, and inhabit symbols
 ln -s _target-or-destination link-name_
 
 Task 14. Copy HTML files
-cp -nu *.html_ _copy only html files and only writes files that didnt exist_  
+cp -nu .html  _copy only html files and only writes files that didnt exist_
+
+Task 15. Let's move
+mv [[:upper:]]  _move files with names starting with an upper case_
+
+
+  
