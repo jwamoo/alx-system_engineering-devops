@@ -13,5 +13,9 @@ cd ~ _changes the directory to the user's home directory_
 
 Task 3. The long format
 ls -l _display current directory contents in long format_
+
+Task 4. Hidden files
+ls -al _display current directory contents including hidden files_
+
 _
 
