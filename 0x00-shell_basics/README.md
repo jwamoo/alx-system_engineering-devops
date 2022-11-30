@@ -23,8 +23,9 @@ ls -aln _display current directory contents numerically_
 Task 6. Welcome
 mkdir /tmp/my-first-directory _create directory in /tmp/ director_
 
-Task 7. BBett is my first directory
+Task 7. Betty is my first directory
 mv _move betty from tmp to tmp/my-first-director_
 
-
+Task 8. Delete betty
+rm _delete betty_
 
