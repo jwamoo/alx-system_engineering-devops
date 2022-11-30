@@ -29,3 +29,7 @@ mv _move betty from tmp to tmp/my-first-director_
 Task 8. Delete betty
 rm _delete betty_
 
+Task 9. Bye bye My first directory
+rmdir _delete directory from tmp directory_
+
+
