@@ -55,4 +55,7 @@ rm all ~   _delete all Emacs generated temp file with ~ at the end_
 
 Task 17 Create Directories welcome, welcome/to, and welcome/to/school
 mkdir -p welcome/to/school _command_
+
+Task 18. Comma separated ls
+ls -map
   
