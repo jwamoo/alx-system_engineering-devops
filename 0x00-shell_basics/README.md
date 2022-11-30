@@ -37,3 +37,8 @@ cd - _changes working directory to the previous one_
 
 Task 11. Lists
 cd -al . .. /boot _ls in 3 different directory at once_
+
+Task 12. File type
+file [filename] _print file type_
+
+
